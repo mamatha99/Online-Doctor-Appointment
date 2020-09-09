@@ -1,0 +1,31 @@
+.backgro{
+background-color: #303030;
+}
+
+.img-size{
+    width: 661px;
+    height:406px;
+}
+.img-size2{
+    width: 593px;
+    height:284px;
+}
+.img-size3{
+    width:114px;
+    height:119px;
+
+}
+.img-size4{
+    width: 469px;
+    height:503px;
+}
+.back{
+    background-image:linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0)),url(../img/reg.png);
+    background-size: cover;
+    
+}
+.back2{
+    background-image:linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0)),url(../img/reg2.png);
+    background-size: cover;
+    
+}
